@@ -1,4 +1,4 @@
-# Running the twister sister ribozyme 5Y87 using the FARFAR2 ROSIE server
+# Running chemical-shifted guided modeling of a tandem GA pair using the FARFAR2 ROSIE server
 
 We have supplied input files in this directory: the FASTA, the native (experimental) PDB structure, the secondary structure, and a STAR2.1 formatted file of chemical shifts. For simulation, upload these files to the corresponding inputs as directed in the text. To reproduce both runs that were compared in the text, simply omit the chemical shifts file.
 
